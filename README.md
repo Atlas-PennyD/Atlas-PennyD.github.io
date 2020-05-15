@@ -7,12 +7,9 @@ Hello Skelly,
 I'll start putting up some info for you
 
 ### Cheatsheets
-  * [MarkDown Cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
-    * This is what we use to create Readme.md files (that is how this info section is created)
+ * [MarkDown Cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+ * [Window Shortcuts](https://support.microsoft.com/en-us/help/12445/windows-keyboard-shortcuts)
 
 ### Software I recommend:
-  * [Git](https://git-scm.com/downloads)
-    * Used to push and pull code to this repository
-  
+  * [Git](https://git-scm.com/downloads)  
   * [Notepad++](https://notepad-plus-plus.org/)
-    * Amaizing text editor tool, likely not used as your primary coding environment (but still very usefull)
