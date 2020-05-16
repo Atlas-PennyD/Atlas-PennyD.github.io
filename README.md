@@ -9,7 +9,10 @@ I'll start putting up some info for you
 ### Cheatsheets
  * [MarkDown Cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
  * [Window Shortcuts](https://support.microsoft.com/en-us/help/12445/windows-keyboard-shortcuts)
-
+ * [Atlas Grid Editor](https://wiki.nitrado.net/en/Server_Grid_Editor#5._Exporting_the_.Json_and_Map_Images)
+ * [Way to See the Resources](https://www.playatlas.com/index.php?/forums/topic/14487-is-there-a-way-to-see-the-resouces-on-each-type-of-island/)
+ 
 ### Software I recommend:
   * [Git](https://git-scm.com/downloads)  
   * [Notepad++](https://notepad-plus-plus.org/)
+
