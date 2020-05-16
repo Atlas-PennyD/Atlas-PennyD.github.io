@@ -5,6 +5,8 @@ Tools for Atlas official servers to make game play just a little bit easier.
 Hello Skelly,
 
 I'll start putting up some info for you
+### Github Pages
+ * [Atlas Resources Map](https://atlas-pennyd.github.io)
 
 ### Cheatsheets
  * [MarkDown Cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
