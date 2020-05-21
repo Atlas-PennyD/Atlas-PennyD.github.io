@@ -19,3 +19,5 @@ I'll start putting up some info for you
   * [Git](https://git-scm.com/downloads)  
   * [Notepad++](https://notepad-plus-plus.org/)
 
+### Learn JavaScript
+  * [JavaScript Tutorials](https://javascript.info/)
