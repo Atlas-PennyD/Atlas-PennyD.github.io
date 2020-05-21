@@ -18,6 +18,7 @@ I'll start putting up some info for you
 
 ### Learn JavaScript
   * [JavaScript Tutorials](https://javascript.info/)
+  * [React](https://reactjs.org/)
   * [Leaflet](https://leafletjs.com/)
   
 ### Atlas Map
