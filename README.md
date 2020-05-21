@@ -1,10 +1,8 @@
 # Atlas-PennyD.github.io
 Tools for Atlas official servers to make game play just a little bit easier.
 
-## Notes to Skelly:
-Hello Skelly,
+## Helpful Links:
 
-I'll start putting up some info for you
 ### Github Pages
  * [Atlas Resources Map](https://atlas-pennyd.github.io)
 
